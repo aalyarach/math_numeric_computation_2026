@@ -1,0 +1,13 @@
+Prompt AI yang Digunakan untuk Tugas :
+Nama : Alya Rachmawati
+NIM  : 202511420039
+
+PROMPT 1: Penyelesaian SPL 3 Variabel (Metode Eliminasi Gauss)
+"Buatkan algoritma terstruktur untuk menyelesaikan Sistem Persamaan Linear (SPL) 3 variabel menggunakan Metode Eliminasi Gauss."
+PROMPT 2: Pembuatan Kode Python SPL 3 Variabel di Google Colab
+"Berdasarkan algoritma tersebut, buatkan kode Python yang tertata dalam cell-cell untuk Google Colab. Kode harus menyelesaikan SPL 3 variabel dengan matriks augmented 3x4 menggunakan library NumPy (tanpa fungsi solver otomatis). Berikan penjelasan komentar yang sangat detail pada tiap baris kode."
+PROMPT 3: Algoritma Persamaan Non-Linear (Metode Bisection)
+"Tolong buatkan algoritma langkah demi langkah untuk mencari akar Persamaan Non-Linear menggunakan Metode Bisection (Bagi Dua)."
+PROMPT 4: Pembuatan Kode Python Bisection di Google Colab
+"Buatkan implementasi kode Python untuk Metode Bisection di Google Colab. Pisahkan fungsi matematika f(x) pada cell pertama, dan algoritma pencarian akar berbentuk tabel iterasi di cell kedua. Sertakan komentar penjelasan detail per baris kodesya."
+
